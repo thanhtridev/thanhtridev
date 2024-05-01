@@ -17,3 +17,4 @@
 <a href="https://github.com/thanhtridev/trello-web.git">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thanhtridev&repo=trello-web&theme=radical" />
 </a> 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thanhtridev&repo=trello-web)](https://github.com/anuraghazra/github-readme-stats)
