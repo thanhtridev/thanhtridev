@@ -12,3 +12,4 @@
 
 ## 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=thanhtridev&show_icons=true&theme=holi)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thanhtridev&layout=compact)
