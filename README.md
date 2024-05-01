@@ -12,5 +12,5 @@
 
 ## 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=thanhtridev&show_icons=true&theme=holi)
+<img scr="my stats" align="center" width="49%" src="https://github-readme-stats.vercel.app/api?username=thanhtridev&show_icons=true&theme=holi"/>
 <img scr="top languages" align="center" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhtridev&layout=compact"/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thanhtridev&layout=compact)
