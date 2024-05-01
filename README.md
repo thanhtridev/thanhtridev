@@ -9,7 +9,7 @@
 <a href="https://fb.com/https://www.facebook.com/thanhtrii02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/thanhtrii02" height="30" width="40" /></a>
 <p align="center">📫 How to reach me: <b>nguyenthanhtri340@gmail.com</b></p>
 </p>
-<br/>
+<div align="center">-------------&&-------------</div>
 <h3 align="center">Languages Frameworks and Tools</h3>
 <br/>
 <div align="center">
