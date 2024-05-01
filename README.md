@@ -1,7 +1,7 @@
 <img src="https://i.pinimg.com/564x/e9/bf/55/e9bf55f5df6b5c3717679a392f33bfdf.jpg" />
 <h1 align="center">Hi 👋, I'm Thanh Tri</h1>
 <h3 align="center">"My dream is to become a skilled programmer in the future !"</h3>
-
+- 📫 How to reach me **nguyenthanhtri340@gmail.com**
 
 ## Connect with me :
 <p align="left">
@@ -16,7 +16,6 @@
 ## 📊 GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=thanhtridev&show_icons=true&theme=holi&&hide=contribs,prs,issues)
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=thanhtridev&show_icons=true&locale=en&layout=compact)
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thanhtridev&" alt="thanhtridev" />
 <br/>
 <a href="https://github.com/thanhtridev/trello-web.git">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thanhtridev&repo=trello-web&theme=radical" />
