@@ -13,7 +13,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,react,vue,nodejs,typescript,java,spring,python" />
-    <img src="https://skillicons.dev/icons?i=firebase,mongodb,mysql,idea,ps,postman,scss,vite,vscode,github,figma,tailwind,git,graphql" /><br>
+    <img src="https://skillicons.dev/icons?i=scss,tailwind,firebase,mongodb,mysql,figma,ps,postman,vite,graphql,git,github,vscode,idea" /><br>
 </div>
 
 ## 📊 GitHub Stats :
