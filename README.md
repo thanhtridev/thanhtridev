@@ -13,7 +13,4 @@
 ## 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=thanhtridev&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
-<a href="https://github.com/thanhtridev/thanhtridev.git">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=thanhtridev&theme=radical" />
-</a>   
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical) 
