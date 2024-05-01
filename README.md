@@ -12,6 +12,7 @@
 
 ## 📊 GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=thanhtridev&show_icons=true&theme=holi&&hide=contribs,prs,issues)
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thanhtridev&show_icons=true&locale=en&layout=compact" alt="thanhtridev" />
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=thanhtridev&layout=compact)
 <br/>
 <a href="https://github.com/thanhtridev/trello-web.git">
