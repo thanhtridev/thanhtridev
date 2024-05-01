@@ -1,3 +1,4 @@
+<img src="https://i.pinimg.com/564x/e9/bf/55/e9bf55f5df6b5c3717679a392f33bfdf.jpg" />
 <h1 align="center">Hi 👋, I'm Thanh Tri</h1>
 <h3 align="center">"My dream is to become a skilled programmer in the future !"</h3>
 
