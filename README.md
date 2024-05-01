@@ -1,3 +1,5 @@
+### WELCOME TO MY PAGE ✌️
+My name is Thanh Tri. "My dream is to become a skilled programmer in the future !".<br>
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/thanhtrii02) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nguyễn-thanh-trí-226b942ba/) 
