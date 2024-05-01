@@ -13,5 +13,5 @@ My name is Thanh Tri. "My dream is to become a skilled programmer in the future 
 
 <a href="https://github.com/thanhtridev/thanhtridev.git">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=QuickDraw&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=thanhtridev&theme=radical" />
 </a>   
