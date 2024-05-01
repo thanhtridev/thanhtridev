@@ -1,5 +1,5 @@
 <img width="100%" src="https://media.licdn.com/dms/image/D5616AQEekHYH8eYRjA/profile-displaybackgroundimage-shrink_200_800/0/1669854175457?e=2147483647&v=beta&t=B2tJQOzY_afA5g5umRwLWNdYgNhS4xAdRRgjd_xxJGI" />
-<h1 align="center">Hi 👋, I'm Thanh Tri</h1>
+<h1 align="center">Hi 👋, I'm NGUYEN THANH TRI</h1>
 <h3 align="center">"My dream is to become a skilled programmer in the future !"</h3>
 
 <p align="center">
