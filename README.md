@@ -9,7 +9,8 @@
 <a href="https://fb.com/https://www.facebook.com/thanhtrii02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/thanhtrii02" height="30" width="40" /></a>
 <p align="center">📫 How to reach me: <b>nguyenthanhtri340@gmail.com</b></p>
 </p>
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<h3 align="center">Languages Frameworks and Tools</h3>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,react,vue,nodejs,typescript,java,spring,python" />
@@ -19,6 +20,7 @@
 ## 📊 GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=thanhtridev&show_icons=true&theme=holi&&hide=contribs,prs,issues)
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=thanhtridev&show_icons=true&locale=en&layout=compact)
+<br/>
 <br/>
 <a href="https://github.com/thanhtridev/trello-web.git">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thanhtridev&repo=trello-web&theme=radical" />
