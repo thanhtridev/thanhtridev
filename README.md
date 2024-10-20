@@ -11,8 +11,8 @@
 <h3 align="center">Languages Frameworks and Tools</h3>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,vue,nodejs,typescript,java,spring,python" />
-    <img src="https://skillicons.dev/icons?i=scss,tailwind,firebase,mongodb,mysql,figma,ps,postman,vite,graphql,git,github,vscode,idea" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,typescript" />
+    <img src="https://skillicons.dev/icons?i=scss,tailwind,firebase,mongodb,mysql,figma,postman,graphql,git,github,vscode" /><br>
 </div>
 
 ## 📊 GitHub Stats :
